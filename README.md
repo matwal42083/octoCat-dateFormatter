@@ -2,6 +2,14 @@
 
 A small browser-based date formatter built as a JavaScript practice project alongside a freeCodeCamp assignment. It displays today's date and lets you choose between three formats.
 
+## Project origin
+
+<a href="https://www.freecodecamp.org/learn/">
+  <img src="https://raw.githubusercontent.com/matwal42083/myPortfolio/main/src/assets/images/freeCodeCampLogo.jpg" alt="freeCodeCamp logo" width="150">
+</a>
+
+This date formatter was built alongside a freeCodeCamp assignment as JavaScript practice.
+
 ![Date formatter preview](https://github.com/matwal42083/octoCat-dateFormatter/assets/115494989/5ad38237-a07d-4c88-8562-1f05e32409d9)
 
 ## Date formats
